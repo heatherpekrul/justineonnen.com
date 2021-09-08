@@ -1,0 +1,9 @@
+{
+  "name": "Justine Onnen",
+  "short_name": "Justine Onnen",
+  "theme_color": "#17f9ff",
+  "background_color": "#17f9ff",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
