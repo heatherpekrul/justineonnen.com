@@ -6,6 +6,8 @@
     <?php echo $page_title; ?> | Justine Onnen
   </title>
 
+  <meta name="description" content="Justine Onnen is a Fisheries Ecology Undergraduate Student">
+
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#17f9ff">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
